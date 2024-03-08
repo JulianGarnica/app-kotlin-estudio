@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">EstudioUni</string>
+    <string name="btnCambiar">Cambiar Ventana</string>
+
+
+    <string name="titulo2">Titulo 2</string>
+    <string name="accion">Acción!</string>
 </resources>
