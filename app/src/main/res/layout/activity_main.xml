@@ -20,6 +20,7 @@
         android:id="@+id/textView5"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:fontFamily="@font/madimione_regular"
         android:text="Esta es mi app"
         android:textSize="34sp"
         app:layout_constraintBottom_toBottomOf="parent"
